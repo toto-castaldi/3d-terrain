@@ -7,7 +7,6 @@ Inspired by a Coding Challenge of [Daniel Shiffman](https://shiffman.net/)
 
 [Here is the online version](https://toto-castaldi.github.io/3d-terrain/index.html).
 
-Press 'F' button to hide/show the FPS info  
 Press 'I' button to save the Rain to your Desktop as an png image  
 
 
